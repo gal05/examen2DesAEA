@@ -1,0 +1,115 @@
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\Evaluacion.dll.config
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\Evaluacion.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\Evaluacion.pdb
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\csc.exe
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\csc.exe.config
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\csc.rsp
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\csi.exe
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\csi.exe.config
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\csi.rsp
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.AppContext.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Collections.Immutable.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Console.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.IO.Compression.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.IO.FileSystem.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.IO.Pipes.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Security.AccessControl.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Security.Claims.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Security.Principal.Windows.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.ValueTuple.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Xml.XPath.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\vbc.exe
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\vbc.exe.config
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\vbc.rsp
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\VBCSCompiler.exe
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\roslyn\VBCSCompiler.exe.config
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csprojAssemblyReference.cache
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.CoreCompileInputs.cache
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.CopyComplete
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\obj\Debug\Evaluacion.dll
+D:\2019\MVC\Demo09\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\Evaluacion.dll.config
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\Evaluacion.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\Evaluacion.pdb
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\csc.exe
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\csc.exe.config
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\csc.rsp
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\csi.exe
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\csi.exe.config
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\csi.rsp
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.AppContext.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Console.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\vbc.exe
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\vbc.exe.config
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\vbc.rsp
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\DemoGuerra.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\DemoGuerra.pdb
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\DemoGuerra.dll.config
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.CopyComplete
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\obj\Debug\Evaluacion.dll
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb
+C:\Users\Jose\Desktop\examen 2\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csprojAssemblyReference.cache

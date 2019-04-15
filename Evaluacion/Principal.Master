@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="Evaluacion.Principal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            text-align: center;
+            font-size: x-large;
+            color: #FFFFFF;
+            background-color: #3333CC;
+        }
+        .auto-style3 {
+            font-size: large;
+        }
+        .auto-style4 {
+            text-align: center;
+            font-size: x-large;
+            color: #FFFFFF;
+            background-color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+        </div>
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style4">
+                        <asp:Image ID="Image1" runat="server" Height="215px" ImageUrl="~/imagenes/tecsup.png" Width="900px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2"><strong>EVALUACION NRO 2 DE APLICACIONES EMPRESARIALES AVANZADAS</strong></td>
+                </tr>
+                <tr>
+                    <td><strong>
+                        <asp:Menu ID="Menu1" runat="server" CssClass="auto-style3" Orientation="Horizontal">
+                            <Items>
+                                <asp:MenuItem Text="Mantenimiento" Value="Mantenimiento">
+                                    <asp:MenuItem Text="Cliente" Value="Cliente" NavigateUrl="~/FormCliente.aspx"></asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem Text="Consultas" Value="Consultas">
+                                    <asp:MenuItem Text="Lista de Articulos" Value="Lista de Articulos" NavigateUrl="~/ListaArticulos.aspx"></asp:MenuItem>
+                                    <asp:MenuItem Text="Lista de Facturas por Cliente" Value="Lista de Facturas por Cliente" NavigateUrl="~/ListaFacturasXCliente.aspx"></asp:MenuItem>
+                                    <asp:MenuItem Text="Monto de Boleta Por Año" Value="Monto de Boleta Por Año" NavigateUrl="~/MontoBolestaAnio.aspx"></asp:MenuItem>
+                                    <asp:MenuItem Text="Lista de Productos Vendidos Por Factura o Boleta Segun el año y el mes" Value="Lista de Productos Vendidos Por Factura o Boleta Segun el año y el mes" NavigateUrl="~/ListaProductosVendidos.aspx"></asp:MenuItem>
+                                    <asp:MenuItem Text="Monto Total Vendido Por Vendedor Segun el año" Value="Monto Total Vendido Por Vendedor Y por Año (Boleta /Factura)" NavigateUrl="~/MontoTotalVendidoxAnio.aspx"></asp:MenuItem>
+                                </asp:MenuItem>
+                            </Items>
+                        </asp:Menu>
+                        </strong></td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            <p>
+                                <br />
+                            </p>
+                            <p>
+                            </p>
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            </table>
+    </form>
+</body>
+</html>
